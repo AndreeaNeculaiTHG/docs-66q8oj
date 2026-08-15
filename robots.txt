@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-nyy8dd.nuansa138win.online/sitemap.xml
